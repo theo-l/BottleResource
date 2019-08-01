@@ -1,9 +1,10 @@
-# BottleResource
-Class based endpoint resource plugin for bottle framework
-
-### Usage demo
-
-```python
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+"""
+@Creation: 8/1/19 2:15 AM
+@Author: liang
+@File: tests.py
+"""
 from bottle import Bottle
 
 from bottle_resource import BottleResource, api, api_get, api_post, api_put, api_patch, api_delete
@@ -40,5 +41,3 @@ if __name__ == '__main__':
     app = Bottle()
     app.install(DemoResource())
     app.run(host='0.0.0.0', port=8000, debug=True, reloader=True)
-```
-
