@@ -1,7 +1,7 @@
 # BottleResource
 Class based endpoint resource plugin for bottle framework
 
-### Usage demo
+### Usage 
 
 ```python
 from bottle import Bottle
