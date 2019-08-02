@@ -1,6 +1,9 @@
 # BottleResource
 Class based endpoint resource plugin for bottle framework
 
+### Install
+> pip install BottleResource
+
 ### Usage 
 
 ```python
@@ -41,4 +44,7 @@ if __name__ == '__main__':
     app.install(DemoResource())
     app.run(host='0.0.0.0', port=8000, debug=True, reloader=True)
 ```
+
+### Reference
+[bottle-resource](https://pypi.org/project/BottleResource/)
 
