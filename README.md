@@ -46,7 +46,7 @@ if __name__ == '__main__':
 ```
 
 ### Donation
-![WeChat](https://gitee.com/focusonecc/icons/blob/master/wechat/wx_rewards.jpg "WeChat donation code")
+![WeChat](https://gitee.com/focusonecc/icons/raw/master/wechat/wx_rewards.jpg "WeChat donation code")
 
 ### Reference
 [bottle-resource](https://pypi.org/project/BottleResource/)
