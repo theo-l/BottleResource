@@ -1,5 +1,5 @@
 # BottleResource
-Class based endpoint resource plugin for bottle framework
+Class based rest view endpoint resource plugin for bottle framework
 
 ### Install
 > pip install BottleResource
@@ -44,6 +44,9 @@ if __name__ == '__main__':
     app.install(DemoResource())
     app.run(host='0.0.0.0', port=8000, debug=True, reloader=True)
 ```
+
+### Donation
+![WeChat](https://gitee.com/focusonecc/icons/blob/master/wechat/wx_rewards.jpg "WeChat donation code")
 
 ### Reference
 [bottle-resource](https://pypi.org/project/BottleResource/)
