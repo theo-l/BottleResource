@@ -1,2 +1,2 @@
 -i https://pypi.org/simple
-bottle==0.12.17
+bottle==0.12.20
